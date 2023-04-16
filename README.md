@@ -1,4 +1,4 @@
-# LoopBenchmark
+# LoopBenchmark in C#
 In C#, the choice between using a for loop or a foreach loop largely depends on the specific use case and the data structure being used. Generally, for loops are faster when working with arrays and List<T> collections, while foreach loops are more convenient when working with other collections that implement IEnumerable.
 
 
